@@ -9,4 +9,9 @@ lab1/.DS_STORE
 lab1/.idea/
 lab1/.out
 lab1/docker-compose.yaml
+problems/.stack-work/
+problems/.DS_STORE
+problems/.idea/
+problems/.out/
+problems/dist-newstyle/
 *~
